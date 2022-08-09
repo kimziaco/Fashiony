@@ -28,7 +28,10 @@
 - Python 3.8
 
 <b>```Back-end```<b/>
-* Flask
+- Flask
+- bs4
+- requests
+- pymongo
 
 
 <b>```Front-end```<b/>
