@@ -42,7 +42,7 @@
 ## 4. 아키텍처
 
 ## 5. 핵심 기능
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/88760828/183607324-1d515a22-c9db-407b-83ee-bd3b66a5aa99.png)
 
 
 ## 6. 핵심 트러블 슈팅 
