@@ -1,21 +1,48 @@
-# Fashiony 
+# Fashiony
 ![logo](https://user-images.githubusercontent.com/84092014/164609202-7508ea59-8223-4a16-a852-0fb950254533.png)
 <img width="1387" alt="스크린샷 2022-04-22 오후 2 19 46" src="https://user-images.githubusercontent.com/84092014/164608294-99c96476-5609-42cb-90f9-f0c77bd67f0d.png">
 <img width="1388" alt="스크린샷 2022-04-22 오후 2 20 03" src="https://user-images.githubusercontent.com/84092014/164608338-b7cf81ef-dfe2-403b-bf51-747ef4042f59.png">
 
-## Description 
+
 내일배움캠프 첫 번째 팀 미니 프로젝트입니다. <br/>
-한국의 대표 패션 사이트 중 하나인 무신사에서, 모델들의 브랜드 스냅을 가져와 댓글을 남겨 의견을 표출하는 커뮤니티 서비스를 제공합니다.
+한국의 대표 패션 사이트 중 하나인 무신사에서, 모델들의 브랜드 스냅을 가져와 댓글을 남겨 의견을 표출하는 커뮤니티 서비스를 제공합니다. <br/>
 
-## Environment
-Python 3.8
+## 0. 총 코드 
+이다혜 담당 <br/>
+- 검색, 페이징
 
-## Prerequisite
-pip install flask-uuid  <br/>
-pip install flask <br/>
-pip install bs4 <br/>
-pip install requests <br/>
-pip install pymongo <br/>
 
-## Files
-<img width="656" alt="스크린샷 2022-04-22 오전 10 23 23" src="https://user-images.githubusercontent.com/84092014/164578255-8a572b0e-2740-445a-993d-f3fefdc909d6.png">
+김지호 담당 <br/>
+- 데이터 크롤링
+ 
+
+김대희 담당
+- 소셜 로그인
+
+## 1. 제작 기간 & 참여 인원
+* 2022.04.19 ~ 2022.04.22
+* 3명 : [이다혜](https://github.com/ekgpgdi), [김지호](https://github.com/kimziaco?tab=repositories), [김대희](https://github.com/eet43)
+<br/>
+
+## 2. 사용 기술 
+- Python 3.8
+
+<b>```Back-end```<b/>
+* Flask
+
+
+<b>```Front-end```<b/>
+- HTML
+- Bootstrap
+- JavaScript
+
+## 3. ERD 설계
+![img.png](img.png)
+
+## 4. 아키텍처
+
+## 5. 핵심 기능
+![img_1.png](img_1.png)
+
+
+## 6. 핵심 트러블 슈팅 
