@@ -37,12 +37,12 @@
 - JavaScript
 
 ## 3. ERD 설계
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/88760828/183607324-1d515a22-c9db-407b-83ee-bd3b66a5aa99.png)
 
 ## 4. 아키텍처
 
 ## 5. 핵심 기능
-![image](https://user-images.githubusercontent.com/88760828/183607324-1d515a22-c9db-407b-83ee-bd3b66a5aa99.png)
+![image](https://user-images.githubusercontent.com/88760828/183607462-9eec02d6-7756-4161-bbc3-7da1a4a5a107.png)
 
 
 ## 6. 핵심 트러블 슈팅 
