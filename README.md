@@ -40,9 +40,12 @@
 - JavaScript
 
 ## 3. ERD 설계
+(NOSQL로 설계)
 ![image](https://user-images.githubusercontent.com/88760828/183607324-1d515a22-c9db-407b-83ee-bd3b66a5aa99.png)
 
 ## 4. 아키텍처
+
+<img width="786" alt="Devit(python)Architecture" src="https://user-images.githubusercontent.com/88760828/185904105-49bd9632-68a0-4e36-a78e-c0ff721c39e3.png">
 
 ## 5. 핵심 기능
 ![image](https://user-images.githubusercontent.com/88760828/183607462-9eec02d6-7756-4161-bbc3-7da1a4a5a107.png)
