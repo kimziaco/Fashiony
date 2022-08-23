@@ -52,3 +52,8 @@
 
 
 ## 6. 핵심 트러블 슈팅 
+
+1. git 충돌
+각 다른 github 사용으로 인한 충돌 발생 - git 사용 정의에 대한 필요성을 느낌
+![image (3)](https://user-images.githubusercontent.com/88760828/186085113-975d1c4d-fa2f-4d6c-a4e5-498775f3fec3.png)
+
